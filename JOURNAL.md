@@ -26,4 +26,6 @@ I also chamfered the overhanging protrusion of the "legs" since printers don't s
 ![Assembly 2 (1)](https://github.com/user-attachments/assets/c402a4fd-e968-42c9-a6fe-bf5ef3cb4b9e)
 ![Assembly 2 (2)](https://github.com/user-attachments/assets/7ad4efc6-ef20-44e2-a342-01e28e4a911a)
 
+I'm currently doubting whether or not my servo cad file is correct in its dimensions, though it shouldn't be too bad to adjust them when I get the arm fabricated.
+
 **Session Time: 3h**
