@@ -72,3 +72,14 @@ End of day progress: Pretty good, accomplished axes 2 and started 3.\
 
 
 **Session Time: 4.5h**
+
+# June 21: Axis 3
+
+Starting axis 3. Sketch for side view of axis 3 + axis 4 servo.\
+<img width="589" alt="Screenshot 2025-06-21 at 10 21 36 AM" src="https://github.com/user-attachments/assets/09c94e7a-6994-42be-ab5f-df29e2b0d3ee" />
+
+Drew this up for the shape of the remaining axes:\
+<img width="242" alt="Screenshot 2025-06-21 at 10 24 27 AM" src="https://github.com/user-attachments/assets/39d0214f-b54b-4a8e-bebf-d046cb8c81d3" />
+
+
+**Session Time. 1h**
