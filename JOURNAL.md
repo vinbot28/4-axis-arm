@@ -29,3 +29,18 @@ I also chamfered the overhanging protrusion of the "legs" since printers don't s
 I'm currently doubting whether or not my servo cad file is correct in its dimensions, though it shouldn't be too bad to adjust them when I get the arm fabricated.
 
 **Session Time: 3h**
+
+# June 20: Shoulder axis (Axis 2)
+
+Spent 30 minutes trying to decide how to continue the turret top without making it look so ugly. 
+Settled on making the turret platform diameter from 90mm to 74mm. Also, chopping off unnecessary volume. Unfortunately, without splitting the part into two pieces, supports are needed for the shoulder servo recess. Maybe adjusting the goal to use supports only if they're fast and easy to remove?
+
+Actually no I will just remove the bridged material since it's a waste of filament and space. Might also cause clearance issues when the arm is added later on:
+
+<img width="784" alt="Screenshot 2025-06-20 at 6 21 20 PM" src="https://github.com/user-attachments/assets/6eced5a7-f5f7-485b-b19c-0fb3f9e2e5af" />
+
+Progress after ~1.5h of messing around:\
+<img width="664" alt="Screenshot 2025-06-20 at 6 20 03 PM" src="https://github.com/user-attachments/assets/6daca7c2-e09a-4d50-8d4e-8abb2e48bd52" />
+
+
+**Session Time: 2.5h**
