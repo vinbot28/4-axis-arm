@@ -81,5 +81,18 @@ Starting axis 3. Sketch for side view of axis 3 + axis 4 servo.\
 Drew this up for the shape of the remaining axes:\
 <img width="242" alt="Screenshot 2025-06-21 at 10 24 27 AM" src="https://github.com/user-attachments/assets/39d0214f-b54b-4a8e-bebf-d046cb8c81d3" />
 
+Finally something presentable for axis 3. Axis 4 will be inline with axis 3 point of rotation, and that defined many of the locational dimensions in the sketch. Also tried to include some curves so everything doesn't look to boring and simplistic.\
+<img width="758" alt="Screenshot 2025-06-21 at 12 00 22 PM" src="https://github.com/user-attachments/assets/6b964be4-d10f-4f3d-b9c1-b4c50765c4fa" />
 
-**Session Time. 1h**
+YES! No clearance issues today, and the proportions seem about right. Time to make the actual servo mount part.\
+<img width="516" alt="Screenshot 2025-06-21 at 12 07 20 PM" src="https://github.com/user-attachments/assets/e428d820-e85a-42d2-a70e-5ab0c3811ba1" />
+
+Finished servo mount. I'm not too sure if the actual mounting towers would break. With the (non) loads this arm will tackle, I have my doubts they'll break. It's also a 9.9mm^2 tower so I could just increase walls + infill as needed.\
+<img width="515" alt="Screenshot 2025-06-21 at 1 15 51 PM" src="https://github.com/user-attachments/assets/10282d44-1a24-4d8a-b0f5-454580bf45ef" />
+
+I also took some time to recenter everything so that axis 4 is on the line of symmetry of the base:\
+<img width="250" alt="Screenshot 2025-06-21 at 1 19 06 PM" src="https://github.com/user-attachments/assets/514fba6b-38fa-4004-91dd-15d8d92e7297" />
+<img width="250" alt="Screenshot 2025-06-21 at 1 19 16 PM" src="https://github.com/user-attachments/assets/92578023-8571-4904-b9cc-e774b907db75" />
+
+
+**Session Time. 2.5h**
