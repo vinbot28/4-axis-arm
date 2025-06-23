@@ -96,3 +96,20 @@ I also took some time to recenter everything so that axis 4 is on the line of sy
 
 
 **Session Time. 2.5h**
+
+# June 22: PCB TIME
+
+Spent an hour trying to figure out what symbols and footprints to use for my components...and they're not even ICs. Had to watch some pcb tutorial videos to figure out what to use for 3 pin headers and the barrel jack. Attempted to connect the parts on the schematic, but it got messy quick.\
+![Screenshot 2025-06-22 203323](https://github.com/user-attachments/assets/8a5418d5-3bce-4921-8aaa-eaec4cc7e40f)
+
+Learned of "labels?" which you can connect to and it bridges between connections to the same label. Made the schematic sooooo clean.\
+![Screenshot 2025-06-22 210246](https://github.com/user-attachments/assets/260f2eb9-8634-4abd-8565-d49e5cf7bd66)
+
+I used the net checker tool to verify my connections went to the right spots. However, ERC gave me an error about output pins not going into input pins, or something like that. Some googling told me it's just a thing with the input/output power settings for the components. Also, I know that the connections are fine so I just ignored the error. MOVING ON TO PCB LAYOUT!!!\
+
+I organized the pin headers by servo or potentiometer, and put it on the respective sides of the nano where the connections didn't overlap each other. I may have redone the layout 3 times...anyway I learned to do a ground pour for the GND lines so I didn't have to route those traces. Yay! Thinking I was done, I ran the DRC, which gave me a "thermal relief connection to zone incomplete" error. Turns out my ground pour wasn't able to reach one of the ground pins on the nano. That was easy to fix just by moving my 5v line out of the way. And now, I have a PCB! I'll work on the silkscreen tomorrow.\
+![image](https://github.com/user-attachments/assets/968ee246-bb32-43d3-8f74-3e085af2cc96)
+![image](https://github.com/user-attachments/assets/d1a59f83-e4a3-4401-9239-c79691039907)
+
+
+**Session Time. 3.5h**
