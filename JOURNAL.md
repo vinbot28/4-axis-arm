@@ -105,7 +105,7 @@ Spent an hour trying to figure out what symbols and footprints to use for my com
 Learned of "labels?" which you can connect to and it bridges between connections to the same label. Made the schematic sooooo clean.\
 ![Screenshot 2025-06-22 210246](https://github.com/user-attachments/assets/260f2eb9-8634-4abd-8565-d49e5cf7bd66)
 
-I used the net checker tool to verify my connections went to the right spots. However, ERC gave me an error about output pins not going into input pins, or something like that. Some googling told me it's just a thing with the input/output power settings for the components. Also, I know that the connections are fine so I just ignored the error. MOVING ON TO PCB LAYOUT!!!\
+I used the net checker tool to verify my connections went to the right spots. However, ERC gave me an error about output pins not going into input pins, or something like that. Some googling told me it's just a thing with the input/output power settings for the components. Also, I know that the connections are fine so I just ignored the error. MOVING ON TO PCB LAYOUT!!!
 
 I organized the pin headers by servo or potentiometer, and put it on the respective sides of the nano where the connections didn't overlap each other. I may have redone the layout 3 times...anyway I learned to do a ground pour for the GND lines so I didn't have to route those traces. Yay! Thinking I was done, I ran the DRC, which gave me a "thermal relief connection to zone incomplete" error. Turns out my ground pour wasn't able to reach one of the ground pins on the nano. That was easy to fix just by moving my 5v line out of the way. And now, I have a PCB! I'll work on the silkscreen tomorrow.\
 ![image](https://github.com/user-attachments/assets/968ee246-bb32-43d3-8f74-3e085af2cc96)
@@ -113,3 +113,18 @@ I organized the pin headers by servo or potentiometer, and put it on the respect
 
 
 **Session Time. 3.5h**
+
+# June 23
+
+Finished the PCB. I added 3.25mm mounting holes, as well as some silkscreen labels. DRC checks were all good!\
+![image](https://github.com/user-attachments/assets/94e2c879-dd8a-4e56-9169-5678a981d07e)
+![image](https://github.com/user-attachments/assets/50652dfd-0f43-4475-bd7a-d551b9b52cc0)
+
+Since the PCB was smooth sailing, I'm going to add an enclosure to this pcb. There needs to be something holding the potentiometers and protecting the board. Exported pcb as a .step from kicad.
+Successfully imported it into onshape. I also added a nano model:\
+![image](https://github.com/user-attachments/assets/b03bd1ed-2f2f-4188-9dbd-8c183824ea2c)
+
+Ended the day with figuring out the layout for the potentiometers and started the frame model. Going to use m3 heat sets to secure pcb, and m4 heat sets for the cover. 
+![image](https://github.com/user-attachments/assets/c9f54bff-ac8c-41ce-86be-33d4002b6414)
+
+**Session Time. 1.0h**
