@@ -128,3 +128,19 @@ Ended the day with figuring out the layout for the potentiometers and started th
 ![image](https://github.com/user-attachments/assets/c9f54bff-ac8c-41ce-86be-33d4002b6414)
 
 **Session Time. 1.0h**
+
+# June 29
+
+Finished the electronics case. Adjusted the potentiometers to not block the servo ports. Good thing there's only 5 pots. 
+
+![image](https://github.com/user-attachments/assets/a14298df-44eb-4a32-93eb-0a5e9797fbb2)
+
+I checked online for the usb and dc jack cable sizes, to make sure there's enough space for wire clearance:
+
+![image](https://github.com/user-attachments/assets/dd9089c3-bebf-436d-94e7-a50807cbf6f6)
+
+Overall looks pretty good. Labeled the pots for the joints they would control. Seems like we're done!
+![image](https://github.com/user-attachments/assets/b96cf2a0-1877-4561-9f09-961724170128)
+
+** Session Time: 2.0h **
+
