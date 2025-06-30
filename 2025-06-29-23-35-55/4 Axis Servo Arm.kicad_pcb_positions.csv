@@ -1,0 +1,13 @@
+﻿pos_x,pos_y,rotation,side,designator,mpn,pack,footprint,value,mount_type
+75.68,-84.24,90.0,top,A1,,,Arduino_Nano,Arduino_Nano_v3.x,tht
+104.0,-60.0,180.0,top,J1,,,BarrelJack_Horizontal,5V DC BARREL,tht
+98.36,-63.5,180.0,top,P1,,,PinHeader_1x03_P2.54mm_Vertical,Pot_1,tht
+93.77,-63.5,180.0,top,P2,,,PinHeader_1x03_P2.54mm_Vertical,Pot_2,tht
+89.18,-63.5,180.0,top,P3,,,PinHeader_1x03_P2.54mm_Vertical,Pot_3,tht
+84.59,-63.5,180.0,top,P4,,,PinHeader_1x03_P2.54mm_Vertical,Pot_4,tht
+80.0,-63.5,180.0,top,P5,,,PinHeader_1x03_P2.54mm_Vertical,Pot_Claw,tht
+90.41,-89.46,0.0,top,S1,,,PinHeader_1x03_P2.54mm_Vertical,Axis 1,tht
+95.0,-89.46,0.0,top,S2,,,PinHeader_1x03_P2.54mm_Vertical,Axis 2,tht
+99.59,-89.46,0.0,top,S3,,,PinHeader_1x03_P2.54mm_Vertical,Axis 3,tht
+104.18,-89.46,0.0,top,S4,,,PinHeader_1x03_P2.54mm_Vertical,Axis 4,tht
+108.77,-89.46,0.0,top,S5,,,PinHeader_1x03_P2.54mm_Vertical,Claw,tht

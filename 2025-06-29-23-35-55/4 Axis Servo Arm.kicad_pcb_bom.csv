@@ -1,0 +1,13 @@
+﻿Designator,Quantity,Value,Footprint,Package,MPN,DNP,Mount_Type,Description
+A1,1,Arduino_Nano_v3.x,Arduino_Nano,,,,tht,Arduino Nano v3.x
+J1,1,5V DC BARREL,BarrelJack_Horizontal,,,,tht,DC Barrel Jack with an internal switch
+P1,1,Pot_1,PinHeader_1x03_P2.54mm_Vertical,,,,tht,"Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
+P2,1,Pot_2,PinHeader_1x03_P2.54mm_Vertical,,,,tht,"Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
+P3,1,Pot_3,PinHeader_1x03_P2.54mm_Vertical,,,,tht,"Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
+P4,1,Pot_4,PinHeader_1x03_P2.54mm_Vertical,,,,tht,"Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
+P5,1,Pot_Claw,PinHeader_1x03_P2.54mm_Vertical,,,,tht,"Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
+S1,1,Axis 1,PinHeader_1x03_P2.54mm_Vertical,,,,tht,"Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
+S2,1,Axis 2,PinHeader_1x03_P2.54mm_Vertical,,,,tht,"Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
+S3,1,Axis 3,PinHeader_1x03_P2.54mm_Vertical,,,,tht,"Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
+S4,1,Axis 4,PinHeader_1x03_P2.54mm_Vertical,,,,tht,"Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
+S5,1,Claw,PinHeader_1x03_P2.54mm_Vertical,,,,tht,"Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
