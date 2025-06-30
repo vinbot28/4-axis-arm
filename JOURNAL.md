@@ -4,7 +4,7 @@ author: Vincent
 description: A robotic arm driven by servos and an Arduino.
 created_at: 2025-06-18
 ---
-***16.5 Total Hours***
+## ***16.5 Total Hours***
 
 
 # June 18th: Figured out the layout of the arm + got the base sorted out
