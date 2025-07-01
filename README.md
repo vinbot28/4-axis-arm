@@ -12,15 +12,17 @@ I created this project after seeing so many 6 axis arms pop up all over YouTube.
 
 Bill of Materials:
 
-| Item name             | Packs to buy | Total Cost | Link                                                  |
-|-----------------------|--------------|------------|-------------------------------------------------------|
-| MG946R Servo          |            4 |      14.52 | https://www.aliexpress.us/item/3256806315358281.html  |
-| M4 6x5 Heat set       |            1 |       2.64 | https://www.aliexpress.us/item/3256803396040989.html  |
-| M3 3x5 Heat set       |            1 |       2.05 | https://www.aliexpress.us/item/3256803396040989.html  |
-| M4-6 SHCS             |            1 |       1.55 | https://www.aliexpress.us/item/2255800598515019.html  |
-| M4-8 SHCS             |            1 |       1.64 | https://www.aliexpress.us/item/2255800598515019.html  |
-| M3-6 SHCS             |            1 |       1.41 | https://www.aliexpress.us/item/2255800598515019.html  |
-| Male/Female headers   |            1 |       2.21 | https://www.aliexpress.us/item/2255800687544049.html? |
-| Female DC barrel jack |            1 |       1.53 | https://www.aliexpress.us/item/3256802343987191.html  |
-| Arduino nano          |            1 |       5.73 | https://www.aliexpress.us/item/3256806718205824.html  |
-| PCB                   |            1 |          5 | jlcpcb.com                                            |
+| Item name             | Amount Needed | Packs to buy | Total Cost | Link                                                  |
+|-----------------------|---------------|--------------|------------|-------------------------------------------------------|
+| MG946R Servo          |             4 |            4 |      14.52 | https://www.aliexpress.us/item/3256806315358281.html  |
+| M4 6x5 Heat set       |            23 |            1 |       2.64 | https://www.aliexpress.us/item/3256803396040989.html  |
+| M3 3x5 Heat set       |             3 |            1 |       2.05 | https://www.aliexpress.us/item/3256803396040989.html  |
+| M4-6 SHCS             |            20 |            1 |       1.55 | https://www.aliexpress.us/item/2255800598515019.html  |
+| M4-8 SHCS             |             3 |            1 |       1.64 | https://www.aliexpress.us/item/2255800598515019.html  |
+| M3-6 SHCS             |             3 |            1 |       1.41 | https://www.aliexpress.us/item/2255800598515019.html  |
+| Male/Female headers   |             1 |            1 |       2.21 | https://www.aliexpress.us/item/2255800687544049.html? |
+| Female DC barrel jack |             1 |            1 |       1.53 | https://www.aliexpress.us/item/3256802343987191.html  |
+| Arduino nano          |               |            1 |       5.73 | https://www.aliexpress.us/item/3256806718205824.html  |
+| PCB                   |               |            1 |          5 | jlcpcb.com                                            |
+|                       |               |              |            |                                                       |
+| 5v AC-DC Power supply |             1 |            1 |       9.99 | https://a.co/d/4vrQsQI                                |
