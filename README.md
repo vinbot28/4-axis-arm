@@ -10,7 +10,28 @@ The wiring diagram for the potentiometers to PCB.
 
 I created this project after seeing so many 6 axis arms pop up all over YouTube. Wanting one of my own, I quickly realized how much the components costed and the complexity of the control systems. Despite that, I really wanted to design and play with a robotic arm, and hence the decision to make a 4 axis. Additionally, I couldn't pass down the opportunity to CAD and design a PCB...
 
-Bill of Materials:
+# General Instructions:
+## Wiring: 
+The PCB Silkscreen includes labels for which ports correspond to what component. Px = potentiometer; Sx = servo.\
+Potentiometers:
+- Pot 1      -> P1 (pcb) = Pin 19 (arduino)
+- Pot 2      -> P2 (pcb) = Pin 20 (arduino) 
+- Pot 3      -> P3 (pcb) = Pin 21 (arduino)
+- Pot 4      -> P4 (pcb) = Pin 22 (arduino)
+- Pot 5/claw -> P5 (pcb) = Pin 23 (arduino)
+
+
+Servos:
+- Servo 1/turret   -> S1 (pcb) = Pin 6 (arduino)
+- Servo 2/shoulder -> S2 (pcb) = Pin 8 (arduino)
+- Servo 3/elbow    -> S3 (pcb) = Pin 9 (arduino)
+- Servo 4/wrist    -> S4 (pcb) = Pin 12 (arduino)
+- Servo 5/effector -> S5 (pcb) = Pin 14 (arduino)
+
+## Programming:
+A sample program is included in this repository to control the servos using the potentiometers. Feel free to create your own programs to run pre-programmed movements, serial-based control, and much more!
+
+# Bill of Materials:
 
 | Item name             | Amount Needed       | Packs to buy    | Total Cost | Link                                                 |
 |-----------------------|---------------------|-----------------|------------|------------------------------------------------------|
